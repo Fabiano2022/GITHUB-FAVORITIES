@@ -39,7 +39,7 @@ Nesse desafio proposto pelo curso Explorer da Rocketseat, tive que fazer uma apl
 
 Utilizamos conceitos de SPA, trabalhamos com tabelas no HTML, classes e herança no JS, Promessas com Async Await, trabalhamos com try / catch / throw...
 
-[Visite o projeto online] (https://fabiano2022.github.io/GITFAV/) 
+[Visite o projeto online] (https://fabiano2022.github.io/GITHUB-FAVORITIES/) 
 
 
 ## :memo: Licença
